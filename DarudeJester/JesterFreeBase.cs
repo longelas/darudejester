@@ -11,7 +11,7 @@ namespace DarudeJester;
 [BepInPlugin(ModGuid, "Darude Jester", "1.0.0")]
 [BepInDependency("LCSoundTool")]
 public class JesterFreeBase : BaseUnityPlugin {
-    private const string ModGuid = "AriDev.JesterFree";
+    private const string ModGuid = "Longee.DarudeJester";
 
     public static JesterFreeBase Instance { get; private set; }
 
