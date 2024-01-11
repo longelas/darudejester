@@ -20,6 +20,7 @@ all you have to do is replace `intro.wav` or `solo.wav` with something of your l
 [Source code on GitHub](https://github.com/longelas/darudejester)
 
 ## Changes
+- 1.0.1: modified mod GUID
 - 1.0.0: The mod was created from AriDeves codebase, with the modified soundfiles for easier install
 
 ## Future Plans
